@@ -29,5 +29,8 @@ makeQt
 # Include decomposition library sources
 !/scotch_7.0.8
 !/Zoltan-3.90
+!metis-5.1.0.tar.gz
+!parmetis-4.0.3.tar.gz
+
 
 # End-of-file
